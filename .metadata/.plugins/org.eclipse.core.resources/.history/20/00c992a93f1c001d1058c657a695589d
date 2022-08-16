@@ -1,0 +1,7 @@
+package addingNum;
+
+public class AddingNum {
+	public static void main(String[] args) {
+		
+	}
+}
